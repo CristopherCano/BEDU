@@ -17,7 +17,6 @@ principal objetivo conocer los principales conceptos que ahondan las bases de da
  - [Sesión 5: Consultas en MongoDB](MongoDB-BEDU/RETOS)
  - [Sesión 6: Agregaciones](MongoDB-BEDU/RETOS)
  - [Sesión 7: Configuración de Bases de Datos Locales](MySQL-BEDU/RETOS)
- - [Sesión 8: *Query competition*]  
 
  ### Bases de Datos  
  https://drive.google.com/open?id=18kYvknY5n087piu3vrz9mnA-4Exif0gK
