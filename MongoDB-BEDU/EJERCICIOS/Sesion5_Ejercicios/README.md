@@ -1,6 +1,6 @@
 # Ejercicios Sesion 5
 
-### El proyecto consiste en obtener todas las publicaciones que tengan 50 o más comentarios, que la valoración sea mayor o igual a 80, que cuenten con conexión a Internet vía cable y estén ubicadas en Brazil.
+#### El proyecto consiste en obtener todas las publicaciones que tengan 50 o más comentarios, que la valoración sea mayor o igual a 80, que cuenten con conexión a Internet vía cable y estén ubicadas en Brazil.
 
 #### 1.Base de datos sample_airbnb
 ![1  Base de datos sample_airbnb](https://user-images.githubusercontent.com/71915068/100173890-055c4200-2e91-11eb-9dba-6e32cd2b295c.PNG)
