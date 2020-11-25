@@ -25,7 +25,7 @@ principal objetivo conocer los principales conceptos que ahondan las bases de da
  - [Retos sesión 4: Fundamentos de MongoDB](MongoDB-BEDU/RETOS)\
      [1.Colecciones](MongoDB-BEDU/RETOS/Sesion4_Reto1_Colecciones.ipynb)\
      [2.Filtros](MongoDB-BEDU/RETOS/Sesion4_Reto2_Filtros.ipynb)\
-     [Ejercicios](MongoDB-BEDU/EJERCICIOS/Sesion4_Ejercicios)
+     [Ejercicios](MongoDB-BEDU/EJERCICIOS/Sesion4_Ejercicios/Sesion4_Ejercicios.ipynb)
  - [Retos sesión 5: Consultas en MongoDB](MongoDB-BEDU/RETOS)\
       [1.Expresiones Regulares](MongoDB-BEDU/RETOS/Sesion5_Reto1_Expresiones_Regulares.ipynb)\
       [2.Notación y arreglos](MongoDB-BEDU/RETOS/Sesion5_Reto2_Notacion_y_arreglos.ipynb)\
@@ -35,7 +35,7 @@ principal objetivo conocer los principales conceptos que ahondan las bases de da
       [1.Agrupamientos](MongoDB-BEDU/RETOS/Sesion6_Reto1_Agrupamientos.ipynb)\
       [2.Asociaciones](MongoDB-BEDU/RETOS/Sesion6_Reto2_Asociaciones.ipynb)\
       [3.Vistas](MongoDB-BEDU/RETOS/Sesion6_Reto3_Vistas.PNG)\
-      [Ejercicios](MongoDB-BEDU/EJERCICIOS/Sesion4_Ejercicios)
+      [Ejercicios](MongoDB-BEDU/EJERCICIOS/Sesion6_Ejercicios/Sesion6_Ejercicios.ipynb)
  - [Retos sesión 7: Configuración de Bases de Datos Locales](MySQL-BEDU/RETOS)\
       [1.Creación de tablas](MySQL-BEDU/RETOS/sesion7_reto1_operaciones_con_tablas.sql)\
       [2.Importar datos](MySQL-BEDU/RETOS/sesion7_reto2_importarDatos.png)
