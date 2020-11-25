@@ -10,13 +10,13 @@ principal objetivo conocer los principales conceptos que ahondan las bases de da
 
 ### Contenido
 
- - [Sesión 1: Fundamentos de SQL](MySQL-BEDU/RETOS)
- - [Sesión 2: Agrupaciones y subconsultas](MySQL-BEDU/RETOS)
- - [Sesión 3: Joins y Vistas](MySQL-BEDU/RETOS)
- - [Sesión 4: Fundamentos de MongoDB](MongoDB-BEDU/RETOS)
- - [Sesión 5: Consultas en MongoDB](MongoDB-BEDU/RETOS)
- - [Sesión 6: Agregaciones](MongoDB-BEDU/RETOS)
- - [Sesión 7: Configuración de Bases de Datos Locales](MySQL-BEDU/RETOS)
+ - [Retos sesión 1: Fundamentos de SQL](MySQL-BEDU/RETOS/sesion2_reto1_patrones.sql)
+ - [Retos sesión 2: Agrupaciones y subconsultas](MySQL-BEDU/RETOS)
+ - [Retos sesión 3: Joins y Vistas](MySQL-BEDU/RETOS)
+ - [Retos sesión 4: Fundamentos de MongoDB](MongoDB-BEDU/RETOS)
+ - [Retos sesión 5: Consultas en MongoDB](MongoDB-BEDU/RETOS)
+ - [Retos sesión 6: Agregaciones](MongoDB-BEDU/RETOS)
+ - [Retos sesión 7: Configuración de Bases de Datos Locales](MySQL-BEDU/RETOS)
 
  ### Bases de Datos  
  https://drive.google.com/open?id=18kYvknY5n087piu3vrz9mnA-4Exif0gK
