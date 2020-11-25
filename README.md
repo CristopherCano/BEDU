@@ -11,6 +11,7 @@ principal objetivo conocer los principales conceptos que ahondan las bases de da
 ### Contenido
 
  - [Retos sesión 1: Fundamentos de SQL](MySQL-BEDU/RETOS)\
+     [1.Consultas](MySQL-BEDU/RETOS/sesion1_retos1a3_consultas.sql)
      [Ejercicios](MySQL-BEDU/EJERCICIOS/Sesion2_Ejercicios.sql)
  - [Retos sesión 2: Agrupaciones y subconsultas](MySQL-BEDU/RETOS)\
      [1.Patrones](MySQL-BEDU/RETOS/sesion2_reto1_patrones.sql)\
