@@ -22,7 +22,7 @@ principal objetivo conocer los principales conceptos que ahondan las bases de da
      [1.Subconsultas](MySQL-BEDU/RETOS/sesion3_reto1_subconsultas.sql)\
      [2.Joins](MySQL-BEDU/RETOS/sesion3_reto2_joins.sql)\
      [3.Vistas](MySQL-BEDU/RETOS/sesion3_reto3_vistas.sql)\
-     [Ejercicios](MySQL-BEDU/RETOS/Sesion3_Ejercicios.sql)
+     [Ejercicios](MySQL-BEDU/EJERCICIOS/Sesion3_Ejercicios.sql)
  - [Retos sesión 4: Fundamentos de MongoDB](MongoDB-BEDU/RETOS)\
      [1.Colecciones](MongoDB-BEDU/RETOS/Sesion4_Reto1_Colecciones.ipynb)\
      [2.Filtros](MongoDB-BEDU/RETOS/Sesion4_Reto2_Filtros.ipynb)\
